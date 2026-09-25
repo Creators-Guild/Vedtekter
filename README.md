@@ -166,3 +166,19 @@ c) Det skal holdes valg for vervet på samme generalforsamling. Melder ingen kan
 a) Foreningen kan oppløses dersom 2/3 av de fremmøtte stemmeberettigede på to etterfølgende ordinære generalforsamlinger stemmer for oppløsning.
 
 b) Ved oppløsning av foreningen vil dens midler og eiendeler overføres til Fordelingsutvalget ved Institutt for informatikk.
+
+# Log
+## Bestemmelser per Genfors
+### Høst 2026 7.sep
+- Vedtektene er godkjent ved flertall
+- Styret er gitt fullmakte til å gjøre redaksjonelle endringer + endringer for å løse logiske feil. Disse endringene trår i kraft øyeblikkelig, men må godkjennes neste generalforsamling.
+
+## Endrings historikk fra 7.09.26
+Eksempel på endring: 
+- vedtekt: §50 a)
+- dato: 32.09.26
+- type endring: redaksjonell/logisk feil/større endring
+- fra: "Dette er en vedtekt"
+- til: "Dette er den oppdaterte vedtekten"
+- grunnlag: Intuisjonen var dette, men det endte å bety noe annet.
+- godkjent/ikke-godkjent av generalforsamling (dato hvis generalforsamling har vært)
