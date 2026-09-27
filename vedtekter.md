@@ -177,7 +177,7 @@ b) Ved oppløsning av foreningen vil dens midler og eiendeler overføres til For
   på neste ordinære generalforsamling. Fullmakten omfatter ikke
   rettigheter, plikter, flertallskrav, formål eller andre substansielle
   bestemmelser, og gjelder fram til neste ordinære generalforsamling.
-- Valg av verv: se protokoll av 07.09.2026
+- Valg av verv: se protokoll "protokoll-genfors-host-2026"
 
 ## Endringslog fra 7.09.26
 ### Redaksjonelle endringer etter 7. september 2026
