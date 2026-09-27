@@ -168,17 +168,19 @@ a) Foreningen kan oppløses dersom 2/3 av de fremmøtte stemmeberettigede på to
 b) Ved oppløsning av foreningen vil dens midler og eiendeler overføres til Fordelingsutvalget ved Institutt for informatikk.
 
 # Log
-## Bestemmelser per Genfors
-### Høst 2026 7.sep
-- Vedtektene er godkjent ved flertall
-- Styret er gitt fullmakte til å gjøre redaksjonelle endringer + endringer for å løse logiske feil. Disse endringene trår i kraft øyeblikkelig, men må godkjennes neste generalforsamling.
+## Vedtak på generalforsamling
+### Høst 2026 — 7. september
+- Vedtektene ble vedtatt med 2/3 flertall.
+- Vedlegget "stillingsbeskrivelser" ble vedtatt
+- Styret ble gitt fullmakt til å gjøre redaksjonelle endringer og rette
+  logiske feil. Endringene trer i kraft umiddelbart, men skal godkjennes
+  på neste ordinære generalforsamling. Fullmakten omfatter ikke
+  rettigheter, plikter, flertallskrav, formål eller andre substansielle
+  bestemmelser, og gjelder fram til neste ordinære generalforsamling.
+- Valg av verv: se protokoll av 07.09.2026
 
-## Endrings historikk fra 7.09.26
-Eksempel på endring: 
-- vedtekt: §50 a)
-- dato: 32.09.26
-- type endring: redaksjonell/logisk feil/større endring
-- fra: "Dette er en vedtekt"
-- til: "Dette er den oppdaterte vedtekten"
-- grunnlag: Intuisjonen var dette, men det endte å bety noe annet.
-- godkjent/ikke-godkjent av generalforsamling (dato hvis generalforsamling har vært)
+## Endringslog fra 7.09.26
+### Redaksjonelle endringer etter 7. september 2026
+| Dato | Paragraf | Endring | Grunnlag | Vedtatt av styret (dato) | Godkjent av generalforsamling |
+
+*(forslag) --/--/-- | §5 f) | "Vedlegg 1" endret navn til "stillingsbeskrivelser" | Mer beskrivende navn trengs ettersom flere vedlegg skal legges til | Nei | Nei*
